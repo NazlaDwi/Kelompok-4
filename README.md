@@ -1,5 +1,3 @@
-#Studi Kasus 1
-
 def celsius_ke_fahrenheit(celsius):
     """ Mengubah suhu celsius ke fahrenheit """
     if 
@@ -19,8 +17,6 @@ print("Celsius :", celsius, "C")
 print("Fahrenheit:", fahrenheit, "F")
 print("Kelvin :", kelvin, "K")
 
-
-#Studi Kasus 2
 
 def rata_rata(nilai_list):
     valid = [n for n in nilai_list if 0 <= n <= 100]
